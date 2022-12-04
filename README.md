@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
+  <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/paintmeyellow/">
