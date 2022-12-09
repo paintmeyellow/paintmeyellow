@@ -27,4 +27,4 @@ I am a Backend Developer with 5 years of experience in commercial developing.
 
 --- 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paintmeyellow)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paintmeyellow)](https://wakatime.com/@paintmeyellow)
