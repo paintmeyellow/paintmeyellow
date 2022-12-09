@@ -24,10 +24,3 @@ I am a Backend Developer with 5 years of experience in commercial developing.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
-
---- 
-
-### Stats
-[![wakatime](https://wakatime.com/badge/user/e30928e6-1b41-4549-b026-40bb58a8d077.svg)](https://wakatime.com/@paintmeyellow)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paintmeyellow&layout=compact)](https://wakatime.com/@paintmeyellow)
