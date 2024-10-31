@@ -11,7 +11,7 @@
 </p>
 
 ### About Me
-I am a Backend Developer with 5 years of experience in commercial developing.
+Backend Developer with over 6 years of experience in commercial developing.
 
 ---
 
